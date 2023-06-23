@@ -19,6 +19,7 @@ How it works:
 Thank you for checking out this Hangman Minigame!!
  
 To state: This project was inspired by the Hangman game created by Kylie Ying
+
 Project creator: Davia Howard
 All rights reserved!
  
